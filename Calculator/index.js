@@ -15,7 +15,8 @@ function calculate(){
     display.value = eval(display.value);
     }
     catch(error){
-        display.value = "I Miss You"
+        display.value = "Error"
     }
 
 }
+
